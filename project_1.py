@@ -2,6 +2,9 @@ import numpy as np
 import sdctree
 from graphviz import Digraph
 
+#Boolean Expressions to Trees
+#Code for : 1) robdd--reduced ordered binary decision diagram
+# 2) ite
 
 print ("Enter the splitting order:")
 order=list(input()) 
