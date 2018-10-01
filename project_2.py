@@ -2,6 +2,10 @@
 
 import collections #library used for ordered dictionaries
 
+#All about the Cover
+#SDC
+#3rd Year
+
 x=0 
 file=open("table.txt","r")#reading input from file
 input1=file.readlines()
