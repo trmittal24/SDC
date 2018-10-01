@@ -1,4 +1,6 @@
-import collections #libraray used for ordered dictionaries
+#Authors: Santosh, Rohan, Tarun
+
+import collections #library used for ordered dictionaries
 
 x=0 
 file=open("table.txt","r")#reading input from file
