@@ -1,4 +1,6 @@
 import numpy as np
+
+#A detailed family tree of a binary tree :)
 class Node:                                                     # defining the structure of each node in graph
     def __init__(self,initvalue,initlvl,initdata):
         self.data = initdata
